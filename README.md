@@ -66,4 +66,5 @@ In a browser's address bar, type **localhost/ClassicASP/html_form1.htm**
 The database should respond to SQL queries. If there is an error message then continue configuring using the above resources. 
 <br>
 ![Image 6](https://github.com/Mattnosekai/ClassicASP/blob/main/asp6.png)
+<br>
 ![Image 7](https://github.com/Mattnosekai/ClassicASP/blob/main/asp7.png)

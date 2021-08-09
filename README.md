@@ -28,3 +28,11 @@ Click “OK” to save the changes. It might take a few minutes.
 Next, open up a browser and type “localhost” in the address bar. This IIS screen or a similar one should be showing. This confirms that IIS is still running after the configuration changes.
 <br>
 ![Image 1](https://github.com/Mattnosekai/ClassicASP/blob/main/asp1.png)
+Next, go to c:\
+<br>
+Go to the inetpup directory. Inside of that, go to the wwwroot directory. 
+<br>
+Within that folder create a new folder called ClassicASP
+<br>
+Make the source code file hello.asp
+<br>

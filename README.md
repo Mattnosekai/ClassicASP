@@ -37,3 +37,11 @@ Within that folder create a new folder called ClassicASP
 <br>
 Make the source code file hello.asp
 <br>
+Apply the proper permissions to this file and directory if there are any issues. 
+![Image 4](https://github.com/Mattnosekai/ClassicASP/blob/main/asp4.png)
+<br>
+In the address bar of the browser, type: **localhost/ClassicASP/hello.asp**
+<br>
+“Hello World!” should be visible. 
+<br>
+![Image 5](https://github.com/Mattnosekai/ClassicASP/blob/main/asp5.png)

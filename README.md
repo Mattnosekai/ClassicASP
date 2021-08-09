@@ -49,16 +49,10 @@ Apply the proper permissions to this file and directory if there are any issues.
 In the address bar of the browser, type: 
 <br>
 **localhost/ClassicASP/hello.asp** 
-
-
-<br>
-
-![Image 5](https://github.com/Mattnosekai/ClassicASP/blob/main/asp5.png)
-
-
-<br>
 <br>
 “Hello World!” should be visible in the browser. 
+<br>
+![Image 5](https://github.com/Mattnosekai/ClassicASP/blob/main/asp5.png)
 <br>
 
 

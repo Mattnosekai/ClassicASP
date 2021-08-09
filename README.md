@@ -70,11 +70,13 @@ This link covers a number of steps to configure an Access Database to run in Win
 https://saplsmw.com/Use_Classic_ASP_with_Access_Databases_in_Windows_10
 <br>
 <br>
-In a browser's address bar, type localhost/ClassicASP/html_form1.htm
+In a browser's address bar, type 
+<br>
+**localhost/ClassicASP/html_form1.htm**
 <br>
 The database should respond to SQL queries. If there is an error message then continue configuring using the above resources. 
 <br>
- ![Image 6](https://github.com/Mattnosekai/ClassicASP/blob/main/asp6.png)
+![Image 6](https://github.com/Mattnosekai/ClassicASP/blob/main/asp6.png)
 <br>
- ![Image 7](https://github.com/Mattnosekai/ClassicASP/blob/main/asp7.png)
+![Image 7](https://github.com/Mattnosekai/ClassicASP/blob/main/asp7.png)
 

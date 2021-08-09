@@ -21,3 +21,6 @@ Under “Programs & Features” go to/click “Turn Windows features on or off�
 Enable everything circled in red (including all sub sections):
 <br>
 ![Image 2](https://github.com/Mattnosekai/ClassicASP/blob/main/asp2.png)
+<br>
+Click “OK” to save the changes. It might take a few minutes. 
+![Image 3](https://github.com/Mattnosekai/ClassicASP/blob/main/asp3.png)

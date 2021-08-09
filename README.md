@@ -56,9 +56,7 @@ In the address bar of the browser, type:
 ![Image 5](https://github.com/Mattnosekai/ClassicASP/blob/main/asp5.png)
 <br>
 <br>
-# Classic ASP with Access Databases
-Now that we have confirmed that IIS can process scripts, the next step is to run an ASP script that connects to an Access Database. 
-<br>
+
 
 <br>
 <br>

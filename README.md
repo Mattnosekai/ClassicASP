@@ -29,10 +29,9 @@ Next, open up a browser and type “localhost” in the address bar. This IIS sc
 <br>
 ![Image 1](https://github.com/Mattnosekai/ClassicASP/blob/main/asp1.png)
 <br>
-Next, go to c:\
+Next, go to c:
 <br>
 Go to the inetpup directory. Inside of that, go to the wwwroot directory. 
-
 <br>
 Within that directory create a new directory called ClassicASP 
 <br>
@@ -41,7 +40,7 @@ Make the source code file hello.asp
 Apply the proper permissions to this file and directory if there are any issues. 
 <br>
 ![Image 4](https://github.com/Mattnosekai/ClassicASP/blob/main/asp4.png)
-<br>
+
 
 
 

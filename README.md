@@ -12,4 +12,12 @@ Step #2. Now that we have confirmed that IIS is running, a few configuration cha
 <br>
 This video also explains the same steps that need to be taken. https://www.youtube.com/watch?v=kGKCUPPk-C4
 <br>
+To execute this script, IIS must be enabled. Take the following steps:
+<br>
+Open Control Panel in Windows.
+<br>
+Under “Programs & Features” go to/click “Turn Windows features on or off”
+<br>
+Enable everything circled in red (including all sub sections):
+<br>
 

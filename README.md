@@ -34,10 +34,9 @@ Next, go to c:\
 Go to the inetpup directory. Inside of that, go to the wwwroot directory. 
 
 <br>
-Within that directory create a new directory called ClassicASP **C:\inetpup\wwwroot\ClassicASP**
+Within that directory create a new directory called ClassicASP 
 <br>
 Make the source code file hello.asp
-<br>
 <br>
 Apply the proper permissions to this file and directory if there are any issues. 
 <br>

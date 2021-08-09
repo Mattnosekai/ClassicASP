@@ -8,4 +8,8 @@ Step #1. Confirm that IIS is running. In a web browser, type in localhost in the
 <br>
 ![Image 1](https://github.com/Mattnosekai/ClassicASP/blob/main/asp1.png)
 <br>
-Step #2. Now that we have confirmed that IIS is running, a few configuration changes need to be made. 
+Step #2. Now that we have confirmed that IIS is running, a few configuration changes need to be made. The image below shows what additional boxes need to be checked.
+<br>
+This video also explains the same steps that need to be taken. https://www.youtube.com/watch?v=kGKCUPPk-C4
+<br>
+

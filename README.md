@@ -32,8 +32,10 @@ Next, open up a browser and type “localhost” in the address bar. This IIS sc
 Next, go to c:\
 <br>
 Go to the inetpup directory. Inside of that, go to the wwwroot directory. 
+
 <br>
-Within that folder create a new folder called ClassicASP
+Within that directory create a new directory called ClassicASP
+**C:\inetpup\wwwroot\ClassicASP\**
 <br>
 Make the source code file hello.asp
 <br>

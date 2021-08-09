@@ -46,6 +46,12 @@ Apply the proper permissions to this file and directory if there are any issues.
 <br>
 <br>
 
+In the address bar of the browser, type: 
+<br>
+**localhost/ClassicASP/hello.asp** 
+
+
+<br>
 
 ![Image 5](https://github.com/Mattnosekai/ClassicASP/blob/main/asp5.png)
 

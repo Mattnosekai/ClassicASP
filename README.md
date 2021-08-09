@@ -24,5 +24,6 @@ Enable everything circled in red (including all sub sections):
 <br>
 Click “OK” to save the changes. It might take a few minutes. 
 ![Image 3](https://github.com/Mattnosekai/ClassicASP/blob/main/asp3.png)
+<br>
 Next, open up a browser and type “localhost” in the address bar. This IIS screen or a similar one should be showing. This confirms that IIS is still running after the configuration changes.
 ![Image 1](https://github.com/Mattnosekai/ClassicASP/blob/main/asp1.png)

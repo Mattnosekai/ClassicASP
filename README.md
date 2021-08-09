@@ -49,28 +49,6 @@ In the address bar of the browser, type: localhost/ClassicASP/hello.asp
 “Hello World!” should be visible. 
 <br>
 <br>
- ![Image 5](https://github.com/Mattnosekai/ClassicASP/blob/main/asp5.png)
+![Image 5](https://github.com/Mattnosekai/ClassicASP/blob/main/asp5.png)
 
-<br>
-<br>
-Classic ASP with Access Databases
-Now that we have confirmed that IIS can process scripts, the next step is to run an ASP script that connects to an Access Database. 
-<br>
-Before moving forward, make sure that the Database3.mdb file is in the ClassicASP directory.
-<br>
 
-<br>
-There are a number of potential issues that can happen when trying to run a Classic ASP script that connects to an Access Database in a modern OS like Windows 10 or later.
-<br>
-This link covers a number of steps to configure an Access Database to run in Windows 10 with Classic ASP.
-<br>
-https://saplsmw.com/Use_Classic_ASP_with_Access_Databases_in_Windows_10
-<br>
-<br>
-In a browser's address bar, type localhost/ClassicASP/html_form1.htm
-<br>
-The database should respond to SQL queries. If there is an error message then continue configuring using the above resources. 
-<br>
- ![Image 6](https://github.com/Mattnosekai/ClassicASP/blob/main/asp6.png)
-<br>
- ![Image 7](https://github.com/Mattnosekai/ClassicASP/blob/main/asp7.png)

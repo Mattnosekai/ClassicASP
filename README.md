@@ -6,4 +6,4 @@ There are a number of steps to take in executing a Classic ASP script. All of th
 <br>
 Step #1. Confirm that IIS is running. In a web browser, type in localhost in the address bar and press enter. An IIS "welcome screen" should appear similar to the one pictured here.
 <br>
-![Test Image 1](https://github.com/Mattnosekai/ClassicASP/blob/main/asp1.png)
+![Image 1](https://github.com/Mattnosekai/ClassicASP/blob/main/asp1.png)

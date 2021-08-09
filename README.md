@@ -37,12 +37,13 @@ Within that directory create a new directory called ClassicASP
 <br>
 **C:\inetpub\wwwroot\ClassicASP**
 <br>
-Make the source code file hello.asp
+Make or copy the source code file hello.asp to the ClassicASP directory.
+<br>
 <br>
 Apply the proper permissions to this file and directory if there are any issues. 
 <br>
 ![Image 4](https://github.com/Mattnosekai/ClassicASP/blob/main/asp4.png)
-
+<br>
 
 
 

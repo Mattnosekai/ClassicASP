@@ -72,9 +72,10 @@ https://saplsmw.com/Use_Classic_ASP_with_Access_Databases_in_Windows_10
 <br>
 In a browser's address bar, type 
 <br>
-**localhost/ClassicASP/html_form1.htm**
+
 <br>
 The database should respond to SQL queries. If there is an error message then continue configuring using the above resources. 
+<br>
 <br>
 ![Image 6](https://github.com/Mattnosekai/ClassicASP/blob/main/asp6.png)
 <br>
